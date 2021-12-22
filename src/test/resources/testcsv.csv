@@ -1,0 +1,3 @@
+pricepershare,volumeofshares,acquireddate,employeeid,companyname,sharename,shareisin,country,fieldofeconomicactivity
+1.2,23,2020-05-05,ER001,Isemasin,ISE,EE1234567890,Estonia,Agriculture
+2.2,14,2020-07-08,VA224,Sahkerdis,SSH,EE0987654321,Estonia,Manufacturing
